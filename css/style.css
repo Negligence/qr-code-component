@@ -36,6 +36,7 @@ article {
   max-width: calc(375px - 2rem);
   display: grid;
   gap: 1.2rem;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.1);
 }
 
 article, article img {border-radius: 1rem;}
