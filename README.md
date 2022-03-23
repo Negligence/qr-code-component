@@ -102,7 +102,7 @@ Declaring 100% width on the child image will make it take up the 100% of the spa
 article img {width: 100%;}
 ```
 
-I costrained the compenent's width using the max-width property and used the calc() function to subract 2 rem from the mobile width provided in the sytle-guide.md, while CSS Grid's sap property becomes very useful in this situation when you need to apply spacing between your elements instead of margin.
+I costrained the compenent's width using the max-width property and used the calc() function to subract 2rem from the mobile width provided in the style-guide.md, while CSS Grid's sap property becomes very useful in this situation when you need to apply spacing between your elements instead of margin.
 
 ```css
 article {
