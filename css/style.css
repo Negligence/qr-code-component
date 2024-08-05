@@ -83,8 +83,9 @@ main {
 }
 
 .content {
-  background-color: var(--white);
   width: calc(320 / 16 * 1rem);
+  height: calc(499 / 16 * 1rem);
+  background-color: var(--white);
   padding: var(--s-200) var(--s-200) var(--s-500);
   row-gap: var(--s-200);
   border-radius: calc(20 / 16 * 1rem);
